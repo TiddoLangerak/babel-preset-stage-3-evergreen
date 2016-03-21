@@ -14,5 +14,14 @@
     "babel-plugin-transform-es2015-unicode-regex": "^6.5.0",
     "babel-plugin-transform-exponentiation-operator": "^6.5.0",
     "babel-plugin-transform-regenerator": "^6.6.5"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TiddoLangerak/babel-preset-stage-3-evergreen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TiddoLangerak/babel-preset-stage-3-evergreen/issues"
+  },
+  "homepage": "https://github.com/TiddoLangerak/babel-preset-stage-3-evergreen#readme"
 }
