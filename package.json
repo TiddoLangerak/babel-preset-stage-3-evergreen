@@ -1,0 +1,17 @@
+{
+  "name": "babel-preset-stage-3-evergreen",
+  "version": "0.0.1",
+  "description": "Presets for compilation of JavaScript code with all stage-3 features enabled to evergreen browsers.",
+  "main": "index.js",
+  "author": "Tiddo Langerak <tiddolangerak@gmail.com> (https://github.com/TiddoLangerak/)",
+  "license": "MIT",
+  "dependencies": {
+    "babel-plugin-transform-es2015-block-scoped-functions": "^6.6.5",
+    "babel-plugin-transform-es2015-destructuring": "^6.6.5",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.7.0",
+    "babel-plugin-transform-es2015-parameters": "^6.7.0",
+    "babel-plugin-transform-es2015-unicode-regex": "^6.5.0",
+    "babel-plugin-transform-exponentiation-operator": "^6.5.0",
+    "babel-plugin-transform-regenerator": "^6.6.5"
+  }
+}
