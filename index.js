@@ -6,6 +6,7 @@ module.exports = {
 		require("babel-plugin-transform-es2015-destructuring"),
 		require("babel-plugin-transform-es2015-modules-commonjs"),
 		[require("babel-plugin-transform-regenerator"), { generators: false, asyncGenerators: false }],
-		require("babel-plugin-transform-exponentiation-operator")
+		require("babel-plugin-transform-exponentiation-operator"),
+		require("babel-plugin-transform-async-to-generator")
 	]
 };

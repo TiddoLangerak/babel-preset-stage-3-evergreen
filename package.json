@@ -6,6 +6,7 @@
   "author": "Tiddo Langerak <tiddolangerak@gmail.com> (https://github.com/TiddoLangerak/)",
   "license": "MIT",
   "dependencies": {
+    "babel-plugin-transform-async-to-generator": "^6.7.0",
     "babel-plugin-transform-es2015-block-scoped-functions": "^6.6.5",
     "babel-plugin-transform-es2015-destructuring": "^6.6.5",
     "babel-plugin-transform-es2015-modules-commonjs": "^6.7.0",
